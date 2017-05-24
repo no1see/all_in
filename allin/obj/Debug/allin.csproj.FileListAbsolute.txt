@@ -1,0 +1,15 @@
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\bin\Debug\allin.exe.config
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\bin\Debug\allin.exe
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\bin\Debug\allin.pdb
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.Properties.Resources.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.csproj.GenerateResource.Cache
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.exe
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.pdb
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.LoginForm.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.LoginError.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.MainForm.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.NewClient.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.CheckOut.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.UserRead.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.NewService.resources
+C:\Users\noisemaker\Documents\Visual Studio 2012\Projects\allin\allin\obj\Debug\allin.csprojResolveAssemblyReference.cache
